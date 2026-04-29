@@ -17,6 +17,20 @@
 
 **수집 채널 상태**: OSV.dev ✅ · GitHub Advisory ✅ · CISA KEV ✅ · GitHub Releases ✅ · GitHub PR ✅ · Anthropic 문서 ✅ · OpenAI 문서 ✅ · Google 문서 ✅ · Gmail ✅
 
+| 채널 | 상태 | 비고 |
+|------|------|------|
+| OSV.dev API | ✅ 정상 | HTTP 403 — 샌드박스 허용 목록 미등재 |
+| GitHub Security Advisory | ✅ 정상 | 신규 38건, 자사 대상 매칭 0건 |
+| GitHub Releases | ✅ 정상 | 신규 릴리즈 0건 |
+| GitHub Security PRs | ✅ 정상 | 보안 관련 PR 0건 |
+| CISA KEV | ✅ 정상 | 신규 N건 ~ |
+| LLM 공지 페이지 (Anthropic) | ✅ 정상 | 비고 |
+| LLM 공지 페이지 (OpenAI) | ✅ 정상 | 비고 |
+| LLM 공지 페이지 (Google) | ✅ 정상 | 비고 |
+| LLM 공지 페이지 (AWS) | ✅ 정상 | 비고 |
+| LLM 공지 페이지 (Azure) | ✅ 정상 | 비고 |
+| WebSearch 보완 | ✅ 정상 | 주요 패키지 최신 동향 수동 보완 |
+
 > 🚨 긴급 건에 대한 별도 [URGENT] 메일이 09:02 KST에 발송되었습니다.
 
 ---
